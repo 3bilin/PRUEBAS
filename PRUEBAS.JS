@@ -1,6 +1,6 @@
 console.log("hola");
 x=4
-function pedo(){
+function firstfunction(){
     if(x>3)
     console.log("holas");
 }
