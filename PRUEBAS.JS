@@ -1,8 +1,3 @@
-console.log("hola");
-x=4
-function firstfunction(){
-    if(x>3)
-    console.log("holas");
+function myFunction(){
+    document.getElementById("TEST").innerHTML = "Hola";
 }
-
-console.log("Hola Carmen");
